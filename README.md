@@ -11,4 +11,4 @@ Pythonで作った顔を認識して枠で囲うものです。ESCで終了し�
 │   ├── haarcascade_frontalface_default.xml
 ```
 
-**We have to set same directory, faceRecognition.exe and assets.**
+We have to set same directory, **faceRecognition.exe** and **assets**.
